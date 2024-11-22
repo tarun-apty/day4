@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(190deg, rgb(43, 73, 193), rgb(32, 141, 24), rgb(111, 19, 154));
+}
+
+main {
+    padding: 2em;
+}
+
+article {
+    margin-bottom: 2em;
+}
+
+article h2 {
+    color: #333;
+}
+
+footer {
+    bottom: 0; 
+    position: static;
+    width: 100%;
+    background-color: rgb(111, 19, 154);
+}
+
+p{
+    color: #fff;
+}
+
+aside{
+    color: aliceblue;
+}
+
+.main{
+    background: linear-gradient(190deg, rgb(87, 113, 218), rgb(113, 231, 105), rgb(202, 131, 73));
+    color: #000000;
+    text-align: center;
+    border: white 5px solid;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 45%;
+}
+
+.skills{
+    background-color: rgb(71, 192, 236);
+    color: #000000;
+    text-align: center;
+    border: rgb(223, 27, 27) 3px solid;
+    width: 30%;
+    margin-left: 1%;
+}
+
+.pskills{
+    background-color: rgb(70, 223, 93);
+    color: #000000;
+    text-align: center;
+    border: rgb(223, 27, 27) 3px solid;
+    width: 30%;
+    margin-left: 65%;
+}
+
+.contact{
+    background-color: rgb(160, 36, 141);
+    color: #000000;
+    text-align: center;
+    border: rgb(224, 110, 178) 3px solid;
+    width: 100%;
+}
+
+.element {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
